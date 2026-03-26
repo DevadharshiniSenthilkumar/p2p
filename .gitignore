@@ -1,0 +1,61 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Ignore non-project files on Desktop
+*.pdf
+*.docx
+*.jpg
+*.png
+*.lnk
+*.exe
+*.ipynb
+*.txt
+*.py
+!server/**/*.py
+*.html
+!index.html
+1ST YEAR PRESENTATIONS/
+1ST YEAR PROJECTS/
+APTIS/
+CARBON I X/
+DA calphark doc/
+MarineDebrisClassifier/
+NOVITECH INTERN/
+New folder/
+New folder (2)/
+SEM III/
+SEMII DSAA/
+SIH/
+TAILOR AKKA/
+UNREAL ENGINE/
+WAMP SERVER/
+java-2025-12/
+java-2025-122/
+kdrama/
+ml/
+desktop.ini
+.gemini/
+_agents/
+.agents/
